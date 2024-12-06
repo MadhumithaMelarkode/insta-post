@@ -23,6 +23,7 @@
     background-color: rgba(0, 179, 255, 0.788);
     border-radius:50%;
     padding:0.5rem;   
+    font-size: 0.5rem;
 }
 .photo{
     margin:0;
